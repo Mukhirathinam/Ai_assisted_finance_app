@@ -10,7 +10,7 @@ import {
   PieChart as RPie, Pie, Cell
 } from 'recharts';
 
-const API = 'http://localhost:8000';
+const API = 'https://ai-finance-backend-6xh6.onrender.com';
 
 export default function App() {
   const [tab, setTab] = useState('dashboard');
