@@ -1,0 +1,7 @@
+Date,Description,Account,Amount,Type
+2026-05-15,Initial business funding,Bank,100000,Debit
+2026-05-16,Purchased office furniture,General Expenses,4500,Debit
+2026-05-17,Payment from ACME Corp,Bank,15000,Debit
+2026-05-17,Consulting Services provided,Sales Revenue,15000,Credit
+2026-05-18,Monthly internet bill,General Expenses,120,Debit
+2026-05-18,Cash withdrawal for petty cash,Cash,500,Debit

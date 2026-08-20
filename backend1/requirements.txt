@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+sqlalchemy
+pandas
+python-dotenv
+google-genai
+jinja2
+python-multipart
+bcrypt
+numpy

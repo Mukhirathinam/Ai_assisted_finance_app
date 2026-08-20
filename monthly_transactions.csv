@@ -1,0 +1,19 @@
+Date,Description,Account,Amount,Type
+2026-05-01,Initial Opening Balance,Cash,50000,Debit
+2026-05-01,Initial Opening Balance,Owner's Equity,50000,Credit
+2026-05-05,Monthly Office Rent,Rent Expense,25000,Debit
+2026-05-05,Monthly Office Rent,Cash,25000,Credit
+2026-05-10,Software Consultation Service,Cash,75000,Debit
+2026-05-10,Software Consultation Service,Sales Revenue,75000,Credit
+2026-05-12,Office Stationery Purchase,Office Supplies,1200,Debit
+2026-05-12,Office Stationery Purchase,Cash,1200,Credit
+2026-05-15,Advance from Client for Project,Cash,50000,Debit
+2026-05-15,Advance from Client for Project,Accounts Payable,50000,Credit
+2026-05-20,Bank Loan Received,Bank,100000,Debit
+2026-05-20,Bank Loan Received,Bank Loan,100000,Credit
+2026-05-25,Monthly Salary Payment,Salary Expense,45000,Debit
+2026-05-25,Monthly Salary Payment,Bank,45000,Credit
+2026-05-28,Utility and Internet Bill,Office Supplies,3500,Debit
+2026-05-28,Utility and Internet Bill,Cash,3500,Credit
+2026-05-30,Project Bonus Received,Cash,15000,Debit
+2026-05-30,Project Bonus Received,Service Income,15000,Credit
